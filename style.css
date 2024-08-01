@@ -1,0 +1,177 @@
+body {
+        color: #40514e;
+        margin: 0;
+        text-align: center;
+        font-family: "Merriweather", serif;
+        
+        
+
+    }
+    
+    
+    
+
+.top-container  {
+    background-color: #e4f9f5;
+    padding-top: 100px;
+    position: relative;
+    margin: 0;
+    width: 100%;
+    
+    
+}
+.Title-text h1{
+    font-weight: bold;
+    text-align: center;
+    color: #66bfbf;
+    font-size:48pt;
+    font-family: "Sacramento", cursive;
+  display: block;
+}
+.Title-text h4{
+    
+    text-align: center;
+    color: #66bfbf;
+    font-family: "Sacramento", cursive;
+    font-size:large;
+  
+}
+img.Mountain{
+    justify-content: center;
+    align-content: center;
+    margin-top: 50px;
+    margin-left: 350px;
+    max-width: 800px;
+    height: 500px;
+    
+}
+
+img.myphoto{
+
+    margin-left: 700px;
+    width: 80px;
+    height: 100px;
+    border-radius: 180px;
+    
+
+}
+h2 {
+    
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 2.5rem;
+}
+.intro {
+text-align: center;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    margin-top: 50px;
+    text-align: left;
+    row-gap: 2rem;
+    column-gap: 10px;
+    justify-content: center;
+
+}
+.coding h4{
+    font-weight: bold;
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    margin-bottom: 10px;
+
+    
+
+}
+.detail h4{
+    font-weight: bold;
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+
+}
+
+ 
+
+
+
+.btn {
+
+    border-radius: 10px;
+    width: 100px;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+
+}
+
+.Skill h2{
+    font-weight: bold;
+    color: #11999e;
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 10px;
+    margin-bottom: 100px;
+}
+.middle-container h2{
+    font-weight: bold;
+    color: #11999e;
+    text-align: center;
+}
+.middle-container{
+    margin-top: 50px;
+}
+.Contact a {
+    color: white;
+    width: 200px;
+    text-align: center;
+}
+.Education-icon{
+width: 250px;
+height: 250px;
+}
+.Contact h4{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: #11999e;
+    font-weight: bold;
+}
+.Contact p{
+    font-size: medium;
+    text-align: center;
+    margin: 5px;
+    font-style: italic;
+}
+
+img.mid-cloud{
+    margin-left: 900px;
+}
+
+
+    
+
+.End{
+    background-color: #11cdd4;
+}
+
+img.Education-icon{
+    margin: 50px;
+    margin-right: 0;
+    margin-top: 0;
+}
+img.cat{
+    margin: 50px;
+    margin-right: 0;
+    
+}
